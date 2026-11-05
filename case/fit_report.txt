@@ -1,0 +1,9 @@
+Dış ölçü: 41.0 x 62.0 x 23.9 mm; kart katmanı 7.5 mm
+Pil yuvası 32 x 52; ekran arkası boşluk 1.35 mm; kart katmanı 4.5 mm
+USB merkezleri x: C3 -7.1, TP 11.1 (alt kenar); anahtar y=2.0 (dış merkez); kanal Ø3.6
+front: watertight=True hacim=9499 mm3 sınırlar=[41.  62.   9.8]
+back: watertight=True hacim=13873 mm3 sınırlar=[41. 62. 17.]
+ayirici_A: watertight=True hacim=1070 mm3 sınırlar=[36.2 53.2  2.3]
+ayirici_B: watertight=True hacim=2013 mm3 sınırlar=[36.2 53.2  8.4]
+--- Çarpışma (mm3, 0 olmalı) ---
+SONUÇ: çarpışma yok

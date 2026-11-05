@@ -1,0 +1,17 @@
+# Derleme çıktıları
+*.apk
+build/
+.gradle/
+.kotlin/
+local.properties
+*.log
+
+# İmza anahtarı ASLA repoya girmez
+*.keystore
+*.jks
+
+# Simülasyon çıktıları
+sim/full.cpp
+sim/sim
+sim/sim_bat
+__pycache__/
