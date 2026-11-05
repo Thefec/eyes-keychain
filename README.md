@@ -64,4 +64,4 @@ Anahtarsız, ücretsiz: [LRCLIB](https://lrclib.net) (sözler), [Deezer](https:/
 
 ## Lisans
 
-Henüz bir lisans seçilmedi. Lisans eklenene kadar kod yalnızca görüntülenebilir; yeniden kullanım için sahibinden izin gerekir.
+[MIT](LICENSE): kodu, kasayı ve şemaları özgürce kullanabilir, değiştirebilir ve paylaşabilirsin; telif notunu korumak yeterli.
