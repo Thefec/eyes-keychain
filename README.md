@@ -31,9 +31,11 @@ ESP32-C3 Super Mini, 1.3" 240×240 ST7789 ekran (CS pini yok), 900 mAh LiPo, TP4
 
 Pinler: SCL=4, SDA=6, DC=7, RES=10, BLK=3 (PWM), pil ölçümü=GPIO1, düğme=GPIO9 (BOOT).
 
-| Bağlantı şeması | Kablo yerleşimi |
+| Düğümsüz bağlantı şeması | Lehim şeması (v3, lehim sırasıyla) |
 |---|---|
-| ![Düğümsüz şema](case/dugumsuz_sema.png) | ![Kablo yerleşimi](case/kablo_yerlesim.png) |
+| ![Düğümsüz şema](case/dugumsuz_sema.png) | ![Lehim şeması v3](case/lehim_semasi_v3.png) |
+
+> Lehim şemasında ekran BLK'si 3V3'e bağlı çizilmiş (parlaklık ayarı yok). Parlaklık, otomatik kararma ve gece uykusu için BLK'yi **GPIO 3**'e taşı.
 
 ![Kasa](case/preview_v5.png)
 
